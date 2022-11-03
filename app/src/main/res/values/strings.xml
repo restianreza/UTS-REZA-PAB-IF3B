@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UTS-Reza-IF3b</string>
+    <string-array name="daftar_pilihan">
+        <item>Jalur Pendaftaran</item>
+        <item>Tanpa Test</item>
+        <item>Dengan Test </item>
+
+    </string-array>
+</resources>
